@@ -1,0 +1,36 @@
+Identification:
+  
+<RUID>;<netid>;<name>;<email>
+154008397; ps643; Priya Sundaresan; priya.sun@rutgers.edu
+
+Known issues with your implementation:
+None
+
+
+------------------------
+Course Project Feedback:
+------------------------
+
+1.  How much time did it take to complete this project?
+2 days
+
+2. How effective was this project? [0-10]: 
+9
+    0 = learned nothing
+   10 = highly educational
+
+3. How engaging was this project? [0-10]:
+7
+    0 = tedious and boring
+   10 = fun and engaging
+
+4. How difficult was this project? [0-10]:
+6
+    0 = piece of cake
+   10 = extremely hard
+
+   (note that hard is not necessarily bad, 
+    if it's "hard" as in "challenging")
+
+[Feel free to add comments about this project]
+Good introduction to lexer and parser and code generation. Lecture demo project was helpful to get the base knowledge.
